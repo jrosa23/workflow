@@ -1,7 +1,9 @@
-package main_hub;
+package tests;
 
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;
+
+import main_hub.Simple_Program;
 
 
 public class AddTest {
